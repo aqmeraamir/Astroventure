@@ -3,7 +3,7 @@ An exciting 2D platformer set in space!
 
 ### [Play now (itch.io)](https://aqmer-aamir.itch.io/astroventure)
 
-![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE2OTA4OC8xMjgwMDI5OC5wbmc=/250x600/S1RgyM.png) ![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE2OTA4OC8xMjgwMDI2Ni5wbmc=/250x600/ANRgK4.png)
+![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE2OTA4OC8xMjgwMDI5OC5wbmc=/250x600/S1RgyM.png) ![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE2OTA4OC8xMjgwMDI2Ni5wbmc=/250x600/ANRgK4.png) ![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE2OTA4OC8xMjgwMDI2NS5wbmc=/250x600/CsAFfn.png)
 
 ## Features:
 - Engaging gameplay
@@ -23,7 +23,7 @@ An exciting 2D platformer set in space!
 
 ## Download & install instructions
 
-1. Download the [latest zip file](https://github.com/aqmeraamir/Cosmic-Chaos/releases/tag/1.0) based on your platform
+1. Download the [latest zip file](https://github.com/aqmeraamir/Astroventure/releases/tag/1.0) based on your platform
 2. Unzip the downloaded file to a location of your choice.
 3. Locate the Astroventure file in the unzipped folder.
 4. Run the Astroventure file to launch the game.
